@@ -1,0 +1,17 @@
+/* styles/HomePage.css */
+.home-container {
+    padding: 20px;
+    text-align: center;
+    background-color: #f4f4f4;
+    min-height: calc(100vh - 60px); /* Ajusta a altura mínima para considerar a altura da Navbar */
+}
+
+.home-container h1 {
+    font-size: 2rem;
+    margin-bottom: 20px;
+}
+
+.home-container p {
+    font-size: 1.2rem;
+    margin-bottom: 10px;
+}
